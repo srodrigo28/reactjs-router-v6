@@ -1,0 +1,12 @@
+.body-app{
+    width: 100vw;
+    height: 100vh;
+}
+p{
+    color: white;
+    font-size: 12px;
+    position: fixed;
+    bottom: 10px;
+    left: 30%;
+    
+}

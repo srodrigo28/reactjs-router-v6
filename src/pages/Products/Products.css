@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui;
+    color: #FFF;
+}
+
+.body {
+    width: 393px;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #1D1D1D;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+header {
+    width: 393px;
+    height: 130px;
+    background-color: royalblue;
+    background: url('image/bg.png');
+    background-size: 393px 130px;
+    background-repeat: no-repeat;
+}
+header i{
+    position: relative;
+    bottom: -30px;
+    left: 15px;
+    color: #fff;
+    font-size: 30px
+}
+
+header button{
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+}
+i{
+    transition: .9s;
+}
+i:hover{
+    transform: scale(1.1) rotate(180deg);
+}
+.closeClass{
+    display: none;
+}
+.showClass{
+    display: block;
+}
+.card h2 {
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+    color: #2605E5;
+}
