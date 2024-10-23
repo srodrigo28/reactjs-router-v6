@@ -18,3 +18,8 @@ https://reactrouter.com/en/main/start/tutorial
 ``` * instalando
 npm install react-router-dom
 ```
+
+#### Rodando api
+```
+npx json-server banco.json
+```

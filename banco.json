@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "PS5 Pro",
+            "image": "https://img.odcdn.com.br/wp-content/uploads/2023/03/dell-g15-2022-amd-hero.jpg",
+            "price": 100.00
+        },
+        {
+            "id": 2,
+            "name": "PS4 Pro",
+            "image": "https://t2.tudocdn.net/726651?w=1920&h=1080",
+            "price": 200.00
+        }
+    ]
+}
