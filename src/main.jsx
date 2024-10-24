@@ -14,7 +14,6 @@ const router = createBrowserRouter([
   { path: "/",        element: <App /> },
   { path: "products", element: <Products /> },
   { path: "tasks", element: <Tasks /> },
-  // { errorElement: <Error /> },
 ]);
 */
 
